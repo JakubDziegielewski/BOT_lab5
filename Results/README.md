@@ -1,2 +1,2 @@
 # BOT_lab5
-Files that are made during running of safe_script.py
+Files that are made during the execution of safe_script.py
